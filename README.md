@@ -46,5 +46,5 @@ Hapus terlebih dahulu jika stbmu
 # DONASI
 - ***Silahkan Donasi Seiklasnya untuk akses script ini***
 
-<img src="https://raw.githubusercontent.com/aryobrokolly/modepesawat/main/barcode-aryobrokolly.jpg" alt="DONASI" width="350" height="470">
+<img src="[logo RSUD.png](https://github.com/srpcom/morningreport/blob/main/logo%20RSUD.png)" alt="RSUD" width="350" height="470">
 
